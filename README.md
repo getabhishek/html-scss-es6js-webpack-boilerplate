@@ -1,35 +1,35 @@
 <h1>npm run / CLI</h1>
 <p>
+    <b>npm start</b>
     <ul>
-        <li><b>npm start</b></li>
         <li>starts the development server at http://localhost:4040/</li>
     </ul>
 </p>
 <p>
+    <b>npm run build</b>
     <ul>
-        <li><b>npm run build</b></li>
         <li>builds the project for production mode.</li>
     </ul>
 </p>
 
 <h1>Features</h1>
 <p>
+    <b>Html</b>
     <ul>
-        <li><b>Html</b></li>
         <li>minified html</li>
     </ul>
 </p>
 <p>
+    <b>scss / css</b>
     <ul>
-        <li><b>scss / css</b></li>
         <li>PostCSS support (uses autoprefixer and cssnano)</li>
         <li>Sass support</li>
         <li>minified css</li>
     </ul>
 </p>
 <p>
+    <b>Js</b>
     <ul>
-        <li><b>Js</b></li>
         <li>ECMAScript 2015+ syntax support (convert it into a backwards compatible version of JavaScript)</li>
         <li>minified production js</li>
     </ul>
